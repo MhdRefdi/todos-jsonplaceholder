@@ -58,7 +58,7 @@ Install todos-placeholder with github
 | Variable | Type | Data Type | Description |
 | :-------- | :------- | :------- | :-------  
 | `id`      | `parameter` | `integer` | **Required** |
-| `_method`      | `body` | `string` | **Required** |
+| `_method`      | `body` | `string (PUT)` | **Required** |
 | `title`      | `body` | `string` | **Required** |
 | `completed`      | `body` | `boolean` | **Opsional** |
 
